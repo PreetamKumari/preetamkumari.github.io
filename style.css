@@ -160,7 +160,16 @@ section .title::after{
 .scroll-up-btn:hover{
     filter: brightness(90%);
 }
-
+.project-tags span {
+    background: #f0f0f0;
+    padding: 5px 12px;
+    font-size: 13px;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    color: #333;
+    font-weight: 500;
+    display: inline-block;
+}
 
 /* home section styling */
 .home{
